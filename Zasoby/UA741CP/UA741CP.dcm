@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP UA741CP
-D Single op-amp,UA741CP 1MHz DIP8, tube Texas Instruments UA741CP Op Amp, 1MHz, 8-Pin PDIP
-K
-F http://www.ti.com/lit/ds/symlink/ua741.pdf
-$ENDCMP
-#
-#End Doc Library
