@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLC7524CN
+D 8-Bit, 0.1 us MDAC, Parallel Input, Fast Control Signalling for DSP, Easy Micro Interface
+K
+F http://www.ti.com/lit/ds/slas061d/slas061d.pdf
+$ENDCMP
+#
+#End Doc Library
