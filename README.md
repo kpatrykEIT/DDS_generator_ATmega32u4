@@ -7,9 +7,11 @@ Projekt generatora przebiegów okresowych opartego na bezpośredniej syntezie cy
     <td><img src="dds1.jpg" width="100%"></td>
     <td><img src="dds2.jpg" width="100%"></td>
   </tr>
+  <tr>
+    <td><img src="3D_generator_dds.png" width="100%"></td>
+  <td><img src="pcb2_generator_dds.png" width="100%"></td>
+  </tr>
 </table>
 
-<img src="3D_generator_dds.png" width="50%">
-<img src="pcb2_generator_dds.png" width="50%">
 
 
