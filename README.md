@@ -1,6 +1,6 @@
 # DDS_generator_ATmega32u4
 
-Projekt generatora przebiegów okresowych opartego na bezpośredniej syntezie cyfrowej. Układ bazuje na mikrokontrolerze ATmega32u4 i przetworniku C/A TLC7524C. Oprogramowanie zostało napisane w języku C bazując na rejestrach mikrokontrolera. Projekt płytki PCB został wykonany w programie KiCad. 
+Periodic waveform generator project based on Direct Digital Synthesis (DDS). The system utilizes an ATmega32u4 microcontroller and a TLC7524C DAC. Developed low-level firmware in C using direct register manipulation. Designed the PCB in KiCad.
 
 <table>
   <tr>
